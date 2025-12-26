@@ -1,6 +1,6 @@
 package arrays;
 
-public class MaxValue {
+public class ComputeMaxValue {
     public static int maxValue(int[] array) {
         int largestNum = 0; // initialize largest num placeholder
 
